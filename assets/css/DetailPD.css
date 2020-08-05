@@ -1,0 +1,214 @@
+.detail_pd-top i {
+    font-size: 13px;
+    color: red;
+}
+
+.detail_pd-top span {
+    color: green;
+}
+
+.detail_pd-top h3 {
+    color: red;
+    margin-top: 15px;
+}
+
+.detail_pd h5 {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.check-number button {
+    font-size: 20px;
+    line-height: 0px;
+    border: solid 1px #ebebeb;
+    /* display: inline-block; */
+    width: 40px;
+    height: 50px;
+    background: #fff;
+    color: #333;
+    text-align: center;
+    padding: 0px;
+    float: left;
+}
+
+.check-number button:hover {
+    background-color: red;
+    color: white;
+    border-radius: 4px;
+}
+
+#qty {
+    height: 50px;
+    font-size: 1em;
+    margin: 0;
+    width: 60px;
+    padding: 0 2px;
+    text-align: center;
+}
+
+.check-number input {
+    margin: 0px;
+    display: block;
+    float: left;
+    height: 50px;
+    border: solid 1px #ebebeb;
+    border-right: none;
+    border-left: none;
+    width: 55px;
+    text-align: center;
+    box-shadow: none;
+    border-radius: 0px;
+    font-size: 15px;
+    outline: none;
+}
+
+.txt-buy {
+    width: 100%;
+    padding: 15px 15px;
+    font-size: 16px;
+    text-transform: uppercase;
+    border: 0px;
+    background-color: #F97C10;
+    color: white;
+    border-radius: 4px;
+    margin-top: 20px;
+}
+
+.txt-phone {
+    width: 100%;
+    border: 0px;
+    padding: 15px 15px;
+    font-size: 16px;
+    text-transform: uppercase;
+    background-color: #288AD6;
+    color: white;
+    border-radius: 4px;
+    margin-top: 10px;
+}
+
+.detail_pd-imgMain {
+    border: 1px solid #ededed;
+}
+
+.DetailPD-top {
+    border: 1px solid #ededed;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+
+.DetailPD-top hr {
+    /* margin-top: 5px; */
+    margin-bottom: 0px;
+    margin-bottom: 10px;
+}
+
+.DetailPD-top h5 {
+    margin: 5px;
+}
+
+.DetailPD-top p {
+    font-size: 14px;
+    /* padding: 8px; */
+    margin-bottom: 0px;
+}
+
+
+/* .img-ship i {
+     background-color: black;
+    color: black;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 1px solid #ededed;
+    padding: 5px;
+} */
+
+.img-ship img {
+    background-color: grey;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 1px solid #ededed;
+    padding: 5px;
+}
+
+.img-ship img:hover {
+    background-color: red;
+    color: white;
+}
+
+.Detail-bottom h5 {
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+
+.Detail-bottom hr {
+    background-color: red;
+    margin-top: 0px;
+    width: 100px;
+    float: left;
+    height: 2px;
+}
+
+.new-product {
+    border: 1px solid #ededed;
+    float: left;
+    padding: 15px;
+}
+
+.new-produc1 {
+    color: red;
+}
+
+a {
+    color: #212529 !important;
+}
+
+a:hover {
+    text-decoration: none !important;
+    color: red !important;
+}
+
+#pills-home-tab {
+    color: white !important;
+    background-color: #404042;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+#pills-profile-tab {
+    color: white !important;
+    background-color: #404042;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show>.nav-link {
+    color: #fff !important;
+    background-color: red !important;
+}
+
+tr td {
+    border: 1px solid #e1e1e1;
+    padding: 15px;
+    width: 50%;
+}
+
+.DetailPD-title {
+    margin-top: 30px;
+}
+
+.DetailPD_hr-top {
+    width: 80px;
+    position: absolute;
+    background-color: red;
+    height: 2px;
+    margin-top: 0px;
+}
+
+.DetailPD_hr-bottom {
+    position: relative;
+    margin-top: 0px;
+}
