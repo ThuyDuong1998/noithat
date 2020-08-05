@@ -1,0 +1,74 @@
+.signIn-top {
+    text-align: center;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+.signIn_line {
+    width: 75px;
+    height: 2px;
+    background-color: red;
+    position: absolute;
+    margin: 0px;
+    left: 43%;
+}
+
+.signIn_line-top {
+    margin: 0px;
+}
+
+.signIn-content span {
+    color: red;
+}
+
+.signIn-content label {
+    padding-top: 20px;
+}
+
+.signIn-content input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #e1e1e1;
+}
+
+.signIn-bottom {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.signIn-bottom button {
+    border: 1px solid red;
+    color: red;
+    padding: 7px 15px;
+    margin-top: 20px;
+    border-radius: 4px;
+}
+
+.signIn-bottom button:hover {
+    background-color: #ed1b24;
+    color: white;
+    transition: 0.1s ease;
+}
+
+.signIn-bottom p {
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.signIn-bottom a {
+    color: #777777;
+}
+
+.signIn-bottom a:hover {
+    color: red;
+    text-decoration: none;
+}
+
+@media (min-width: 992px) {
+    .col-md-offset-3 {
+        margin-left: 25%;
+    }
+    .col-md-6 {
+        width: 50%;
+    }
+}
