@@ -1,0 +1,25 @@
+.title a {
+    color: #363f4d;
+}
+
+.title {
+    margin-top: 10px;
+}
+
+.title span {
+    color: red;
+}
+
+.title span:hover {
+    text-decoration: none;
+}
+
+.title a:hover {
+    color: #363f4d;
+    text-decoration: none;
+}
+
+.title h3 {
+    font-weight: bold;
+    margin-top: 50px;
+}
