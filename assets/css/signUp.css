@@ -1,0 +1,24 @@
+.signUp-bottom {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.signUp-bottom button {
+    border: 1px solid red;
+    color: red;
+    padding: 7px 15px;
+    margin-top: 20px;
+    border-radius: 4px;
+    margin-right: 20px;
+}
+
+.signUp-bottom button:hover {
+    background-color: #ed1b24;
+    color: white;
+    transition: 0.1s ease;
+}
+
+.signUp-bottom a {
+    color: red;
+    text-decoration: underline;
+}
